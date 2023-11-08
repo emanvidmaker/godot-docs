@@ -105,7 +105,7 @@ Here is how a ``_process()`` function might look for you:
         // Code to execute both in editor and in game.
     }
 
-.. note::
+.. warning::
 
     Modifications in the editor are permanent. For example, in the following
     case, when we remove the script, the node will keep its rotation. Be careful
