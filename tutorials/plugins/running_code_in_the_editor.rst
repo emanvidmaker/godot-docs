@@ -151,7 +151,7 @@ If you run the game, it will also rotate.
 
 .. image:: img/rotating_in_editor.gif
 
-.. note::
+.. warning::
 
     If you don't see the changes, reload the scene (close it and open it again).
 
